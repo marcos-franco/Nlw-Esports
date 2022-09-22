@@ -16,7 +16,7 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - Git
 - Github
 
-## 💛 Contato:
+## 💛 Contatos:
 
 Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
 
