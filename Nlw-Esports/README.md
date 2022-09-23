@@ -1,10 +1,10 @@
-# NLW eSports
+# Projeto NLW eSports.
 
 ![preview](./preview2.jpeg)
 
-> Trilha Explorer
-
-Projeto construído do evento Next Level Week da Rocketseat.
+Projeto construído no evento Next Level Week da Rocketseat. 
+Um site centralizador de links, no estilo Linktree, feito especialmente para gamers 
+utilizarem na Twitch e outras redes sociais com a proposta de compartilhar quais games e canais acompanham.
 
 [🔗 Clique aqui para acessar](https://marcos-franco.github.io/Nlw-Esports/Nlw-Esports/)
 
