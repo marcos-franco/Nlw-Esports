@@ -9,14 +9,19 @@ Projeto construído do evento Next Level Week da Rocketseat.
 [🔗 Clique aqui para acessar](https://marcos-franco.github.io/Nlw-Esports/)
 
 
-## 🛠 Tecnologias
-
+## 🛠 Tecnologias:
 - HTML
 - CSS
 - Git
 - Github
 
-## 💛 Contato:
+## Status do Projeto:
+100% Concluído
+
+## Autor:
+Projeto desenvolvido por [Marcos Franco](https://www.linkedin.com/in/marcosfranco-5b1a8a111/)
+
+## 💛 Contatos:
 
 Linkedin: https://www.linkedin.com/in/marcosfranco-5b1a8a111/
 
