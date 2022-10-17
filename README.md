@@ -1,6 +1,6 @@
 # NLW eSports
 
-![preview](./marcos-franco/preview2.png)
+![preview](./preview2.png)
 
 > Trilha Explorer
 
