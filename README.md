@@ -4,6 +4,7 @@
 
 ## Descrição:
 Projeto construído do evento Next Level Week da Rocketseat.
+Canais e Streamers, minhas redes sociais e meus jogos favoritos.
 
 [🔗 Clique aqui para acessar](https://marcos-franco.github.io/Nlw-Esports/)
 
