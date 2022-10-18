@@ -13,6 +13,7 @@ Canais e Streamers, minhas redes sociais e meus jogos favoritos.
 - HTML
 - CSS
 - Javascript
+- Consumo de API
 - Git
 - Github
 
