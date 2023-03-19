@@ -6,7 +6,7 @@
 Canais e Streamers, minhas redes sociais e meus jogos favoritos.
 Projeto desenvolvido no evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://marcos-franco.github.io/Nlw-Esports/)
+[🔗 Clique aqui para acessar o site NLW eSports](https://marcos-franco.github.io/Nlw-Esports/)
 
 
 ## 🛠 Tecnologias:
